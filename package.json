@@ -1,0 +1,21 @@
+{
+  "name": "mern-crud-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": "https://github.com/didim1/mern-crud-server.git",
+  "author": "didim1 <dimasseptian.ns@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^4.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "prisma": "^4.4.0"
+  }
+}
